@@ -7,4 +7,4 @@ For this purpose, we wrote total of 5 modules on Verilog. [collect_input.v](http
 Here is a working photo of our VGA screen
 
 
-![WhatsApp Image 2022-07-05 at 13 21 16](https://user-images.githubusercontent.com/97013338/180616437-fa308479-4938-4cb1-8a2d-28c1f9a07e4e.jpeg)
+![link | width=10](https://user-images.githubusercontent.com/97013338/180616437-fa308479-4938-4cb1-8a2d-28c1f9a07e4e.jpeg)
